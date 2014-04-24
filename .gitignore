@@ -25,3 +25,9 @@ gen/
 res/
 bin/
 assets/
+libs/android-async*.jar
+libs/armeabi-v7a/*
+libs/unity-classes.jar
+libs/gs*.jar
+libs/obf*.jar
+libs/qkn.jar
